@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplication 11</title>
+</head>
+<body>
+    <header>Header from page
+        <nav>Nav of the header</nav>
+    </header>
+    <section>The section from page
+        <header>The header from section</header>
+        <article>An article of the section
+            <header>The header of the article</header>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                <q>Ad tempora animi ut delectus impedit magni nihil eveniet vitae minima</q> doloribus eaque, 
+                enim nulla laboriosam, 
+                quisquam odio molestias laudantium ex dignissimos!</p>
+            <p><em>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</em> 
+                Magni harum culpa consequuntur debitis ab labore officia cum? 
+                Ab doloremque mollitia sunt eveniet architecto illum pariatur voluptates, a unde? Optio, nam.</p>
+            <aside>An aside from the article</aside>
+            <footer>The footer of this article</footer>
+        </article>
+        <article>The second article
+            <header>The header of this article</header>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Vel culpa corrupti dignissimos. Aspernatur voluptas in esse, corrupti,
+                quaerat eum suscipit architecto fugit aliquam cumque deserunt ea consequatur molestiae ab cum.</p>
+            <p><strong>Voluptatem in, consequuntur dignissimos minus architecto provident quidem eos nulla nihil ex reprehenderit,</strong>
+                et dolorum saepe adipisci tempora nobis doloribus facere omnis beatae minima.
+                <u>Quos placeat aliquid a numquam vero.</u></p>
+                <footer>The footer of this article</footer>
+        </article>
+        <footer>The footer of this section</footer>
+    </section>
+    <section>The second section
+        <header>The header of this section</header>
+        <nav>The navigation of this section</nav>
+    </section>
+    <footer>The footer of this page</footer>
+</body>
+</html>
